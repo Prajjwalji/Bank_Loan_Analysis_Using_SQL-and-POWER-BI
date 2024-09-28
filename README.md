@@ -1,6 +1,8 @@
 # POWER-BI-PROJECTS
 Explore key metrics such as sales, revenue, customer segmentation, product performance, and geographical trends. Utilize interactive visualizations to uncover insights and identify growth opportunities. Ideal for business analysts and decision-makers seeking to optimize sales strategies.
 
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/5d474ee6-bf57-475f-8cb3-d9e549685f95">
+
 BANK LOAN REPORT
 
 TERMINOLOGIES USED IN DATA
